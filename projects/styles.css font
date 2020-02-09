@@ -1,0 +1,5 @@
+.cats p {
+    background-color: coral;
+}
+.dogs p {
+    font-style: italic;}
