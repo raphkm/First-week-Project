@@ -2,6 +2,8 @@
 Project name is "Wooh"
 My name is Raphael Kariuki
 The project has a brief description of who I am. 
+Instructions:
+Open Portfolio to see first project
 
 The live site is "file:///home/cookies/Documents/moringa-school-projects/Portfolio/index.html#ABOUT%20ME"
 
